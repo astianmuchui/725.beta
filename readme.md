@@ -19,5 +19,6 @@ A confirmation message from the developer is sent to notify the sender.
                 
                 
                 
+                Any illegal use will result in calling of relevant authorities
                 
-                       -------The security system is to ensure that this is used for the right reasons only------ .
+         -------The security system is to ensure that this is used for the right reasons only------ .
