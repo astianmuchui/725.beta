@@ -20,5 +20,8 @@ A confirmation message from the developer is sent to notify the sender.
                 
                 
                 Any illegal use will result in calling of relevant authorities
+				
+			verification code generator activated.
+			mail body with cool UI built
                 
          -------The security system is to ensure that this is used for the right reasons only------ .
