@@ -5,13 +5,20 @@ For instance if the user has no referee email adress, they cannot use this syste
 REMEMBER: THE WHOLE POINT OF THIS IS FOR EMERGENCY EMAIL CONTACT FROM YOURS TO ANOTHER PERSON'S EMAIL ADRESS. Maybe a 
 loved one or a business partner.    
 A confirmation message from the developer is sent to notify the sender.
+
         """
     current improvements: 
+    
         Better UI
+        
         Verification system tested,[Not working 100%]
+        
         better validation(Decided to use html5 inline validation)
+        
         now the first form submits to the verification file.
+        
     """
+    
     upcoming extra security features:
 
     (I)  An email sent to the sender email to confirm if the use of it is right.
