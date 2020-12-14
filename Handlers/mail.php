@@ -3,15 +3,14 @@
      $email = " ";
      $message = " ";
      $second_Email = " ";
-     $verification = " ";
+
      $recepient_email = " ";
      $name = htmlspecialchars($_POST['name']);
      $email = htmlspecialchars($_POST['email']);
      $message = htmlspecialchars($_POST['message']);
      $second_Email = htmlspecialchars($_POST['second_Email']);
-     $verification = htmlspecialchars($_POST['verification_code']);
+
      $recepient_email = htmlspecialchars($_POST['recepient_email']);
-  
     $company_mail = "7iastian@gmail.com";
     $to = 'astianseb730@gmail.com';
     $subject = "[IAstian mail project] Verification code";
@@ -25,5 +24,5 @@
         <h1>$_code</h1>
         <p style='background: black; color: white; padding: 5px 15px;text-align:center'>Note: this code expires within one hour</p>
    </div> ";
-    echo $message_body;
+    // echo $message_body;
 ?>
